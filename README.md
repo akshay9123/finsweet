@@ -14,15 +14,6 @@ This project is a **Flipr project App UI** developed using React Js and Tailwind
 - [License](#license)
 - [Save and Commit](#SaveandCommit)
 
-## 📱Features
-
-- **User Authentication Screens:** Includes login and sign-up interfaces with a clean and modern design.
-- **Home Dashboard:** A user-friendly dashboard providing quick access to book clinic or home visits.
-- **Doctor Profiles:** Detailed doctor profiles with reviews, location, and booking options.
-- **Messaging Interface:** Real-time chat UI designed for patient-doctor communication.
-- **Appointment Management:** Screens to view, schedule, reschedule, or cancel appointments.
-- **Settings Page:** Customizable settings for profile management, notifications, and privacy.
-
 
 ## 🎨 Design Principles
 - **Minimalist and Modern Design:** Focused on simplicity and ease of use.
@@ -35,21 +26,21 @@ This project is a **Flipr project App UI** developed using React Js and Tailwind
 To run this project locally, clone the repository and follow the steps below:
 
 1. **Clone the repository:**
-   ```bash
+   
    git clone https://github.com/your-username/your-repository-name.git
-   ```
+   
 2. **Navigate to the project directory:**
-   ```bash
+   
    cd your-repository-name
-   ```
+   
 3. **Install dependencies:**
-   ```bash
-   flutter pub get
-   ```
+   
+   npm install
+   
 4. **Run the app:**
-   ```bash
-   flutter run
-   ```
+   
+   npm run dev
+   
 
     
 ## Screenshots
@@ -70,8 +61,8 @@ To run this project locally, clone the repository and follow the steps below:
 
 ## 🛠️ Built With
 
-- **Flutter:** The framework used for building the UI.
-- **Dart:** The programming language used in Flutter.
+- **React Js:** The framework used for building the UI.
+- **Tailwind:** This Tailwind is used for styling.
 
 
 ## 🤝 Contributing
@@ -86,7 +77,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Contact Information
 
-For any queries, feel free to reach out at vivek6306619@gmail.com.
+For any queries, feel free to reach out at akshayraj9123@gmail.com.
 
 ## Save and Commit
 
@@ -94,4 +85,4 @@ For any queries, feel free to reach out at vivek6306619@gmail.com.
 - git commit -m "Add README"
 - git push origin main
 
-password of mongodb atlas :- kFi5pwYaKNCSMW2k
+
