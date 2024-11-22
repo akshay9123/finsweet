@@ -5,7 +5,6 @@ This project is a **Flipr project App UI** developed using React Js and Tailwind
 
 
 ## Table of Contents
-- [Features](#features)
 - [Design Principles](#DesignPrinciples)
 - [Getting Started](#GettingStarted)
 - [Screenshots](#screenshots)
